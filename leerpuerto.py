@@ -3,6 +3,7 @@
 from serial import *
 from Tkinter import *
 
+# busca el puesto
 locations=['/dev/ttyUSB2','/dev/ttyUSB3',  
 '/dev/ttyS0','/dev/ttyS1','/dev/ttyS2','/dev/ttyS3','/dev/ttyACM0','/dev/ttyACM1','/dev/ttyACM2','/dev/ttyACM3']
 
